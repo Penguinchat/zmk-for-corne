@@ -23,7 +23,7 @@
 #define SHIFT 3
 #define OPTION 4
 #define LOCK 5
-}; 
+
 / {
     behaviors {
         hm: homerow_mods {
